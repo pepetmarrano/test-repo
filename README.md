@@ -1,7 +1,5 @@
 # test-repo
 
-## Merge test 1
 
-File modified by pepet on 22-08-2018.
-
-Kind regards.
+Trololo : Modifications by jordiac in the master branch
+--end
