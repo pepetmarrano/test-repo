@@ -9,3 +9,10 @@ Trololo : Modifications by jordiac in the master branch
 Using a new branch to modify readme.md file without getting in conflict with main file in th eforked repo.
 
 trololo. 
+
+
+## Work added by jordiac after pepet's first merge.
+
+pim pam pum jojo
+
+jiji.
